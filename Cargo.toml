@@ -1,0 +1,7 @@
+[package]
+name = "netsel"
+version = "0.1.0"
+authors = ["Manuel Graf <m@grafoo.at>"]
+
+[dependencies]
+clipboard = "^0.4"
